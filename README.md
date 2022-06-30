@@ -1,2 +1,2 @@
 # dio-dasafio-instagram
-desafio de protejo da dio de  recriar a tela do instagram 
+desafio de projeto da dio. recriando a tela do instagram 
